@@ -28,8 +28,6 @@ RWD, Micro-Frontend
 
 - 📧 [eng.mhd.ahmed@gmail.com](mailto:eng.mhd.ahmed@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-mahmoud16/)  
-- 🛠 [GitHub](https://github.com/MuhammedCoding)
-
 ---
 
 _“Great front-end is not just about code. It’s about clarity, creativity, and care.”_
